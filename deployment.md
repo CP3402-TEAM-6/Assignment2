@@ -1,1 +1,1 @@
-
+We basically arrange our tasks on Trello; each member sets up a different task and then completes it by the deadline. We use InfinityFree to host our website. We host it first, but then we have to all check it and finalize the project before we submit it. We have six menu options on the main page, but we actually have eight pages in total since we have added two call-to-action buttons for special events like promotions and open houses on the main page. We use form plugins and schedule table plugins for certain pages in order to make it look clearer and more organized.
