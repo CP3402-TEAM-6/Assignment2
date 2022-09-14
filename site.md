@@ -1,4 +1,4 @@
-#**Site Overview**
+**#Site Overview**
 
 To facilitate future modifications to this WordPress site, the following overview will attempt to outline the site's layout, plugins, . The site is built from posts. The following posts and features are listed here:
 
