@@ -1,8 +1,8 @@
-**Site Overview**
+#**Site Overview**
 
 To facilitate future modifications to this WordPress site, the following overview will attempt to outline the site's layout, plugins, . The site is built from posts. The following posts and features are listed here:
 
-**Post**
+##**Post**
 
 **HOME:** Home post is the first post users meet when they enter our website. This post includes basic information and images about the Baizonn Learing Center. Same as other posts, it is designed with multiple plugins and customizing and there is a sidebar designed for helping you go to other posts. There are two big buttons above this post, they can help you to jump into OPENING HOUSE or PROMOTION post.
 
